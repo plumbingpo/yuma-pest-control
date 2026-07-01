@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yumapestcontrolco.com/sitemap.xml
